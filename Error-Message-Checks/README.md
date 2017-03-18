@@ -1,0 +1,1 @@
+Detect SQL injection in CodeIgniter. Since Burp and original list of this plugin can't detect that.
